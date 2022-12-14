@@ -6,6 +6,7 @@ public class ltjava_void {
         eat();
     }
 
+
     //void 메소드
     //void 메소드는 자신이 일을 시작하고 마무리합니다.
     //

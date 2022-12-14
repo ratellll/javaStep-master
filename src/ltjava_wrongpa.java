@@ -6,6 +6,7 @@ public class ltjava_wrongpa {
         System.out.printf("a = %d, b = %d\n", a, b);
     }
 
+
     public static int square(int n) {
         return n * n;
     }

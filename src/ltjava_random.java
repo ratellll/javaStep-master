@@ -16,5 +16,6 @@ public class ltjava_random {
         int rdc = (int) (rd*6);
         return rdc+1;
     }
+
     }
 
